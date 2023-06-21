@@ -1,0 +1,4 @@
+/node_modules
+/myvenv
+# Local Netlify folder
+.netlify
